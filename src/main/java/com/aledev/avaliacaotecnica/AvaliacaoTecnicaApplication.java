@@ -12,5 +12,6 @@ public class AvaliacaoTecnicaApplication {
     public static void main(String[] args) {
         SpringApplication.run(AvaliacaoTecnicaApplication.class, args);
     }
+    //teste branch
 
 }
